@@ -1,0 +1,2 @@
+{"level":"ERROR","location":"[get_call:143] fyersModel","message":{"API":"/history","Error":{"code":-300,"message":"Invalid symbol provided","s":"error"}},"timestamp":"2025-04-24 14:38:41,134+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:143] fyersModel","message":{"API":"/history","Error":{"code":-16,"message":"Could not authenticate the user","s":"error"}},"timestamp":"2025-04-27 23:43:20,614+0530","service":"FyersAPI"}
