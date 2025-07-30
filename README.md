@@ -6,10 +6,10 @@
 
 ## 🚀 Features
 
-- Fetches **live stock prices** (e.g., Crude Oil, Nifty)
-- Generates **line charts** for price movements and monthly revenue
-- Connects to real-time financial APIs using **WebSocket** and **REST API**
-- Displays **real-time updates** and **historical fluctuations**
+- Fetches **live stock prices** (e.g., Crude Oil, Nifty).
+- Generates **line charts** for price movements and monthly revenue.
+- Connects to real-time financial APIs using **WebSocket** and **REST API**.
+- Displays **real-time updates** and **historical fluctuations**.
 
 ---
 
@@ -18,7 +18,7 @@
 - Python  
 - WebSocket API  
 - REST API  
-- Matplotlib / Plotly / Seaborn (for charts)  
+- Matplotlib / Plotly / Seaborn (Charting)  
 - Pandas, NumPy  
 - Jupyter Notebook  
 
@@ -28,32 +28,36 @@
 All output images are located in the `images/` folder.
 
 ### 📌 Monthly Revenue Summary (Line Chart)  
-![Monthly Revenue](images/WhatsApp%20Image%202025-07-29%20at%207.43.26%20PM.jpeg)
+![Monthly Revenue](images/Screenshot%202024-06-23%20224757.png)
 
 ---
 
 ### 📌 Price Close Line Chart  
-![Price Close](images/WhatsApp%20Image%202025-07-29%20at%207.43.27%20PM.jpeg)
+![Price Close Chart](images/Screenshot%202025-07-29%20181701.png)
 
 ---
 
 ### 📌 Live Price using API (Crude Oil)  
-![Live Crude Oil Price](images/WhatsApp%20Image%202025-07-29%20at%207.43.28%20PM.jpeg)
+![Live Crude Oil Price](images/WhatsApp%20Image%202025-07-29%20at%207.40.43%20PM.jpeg)
 
 ---
 
-### 📌 Nifty Price Fluctuation (Jan 2024 – Mar 2025, 1-Min Time Frame)  
-![Nifty 1-Min Data](images/WhatsApp%20Image%202025-07-29%20at%207.43.29%20PM.jpeg)
+### 📌 Nifty 1-Minute Time Frame Chart  
+![Nifty 1 Min Chart](images/WhatsApp%20Image%202025-07-29%20at%207.42.22%20PM.jpeg)
+
+---
+
+### 📌 Nifty Price Fluctuation (Jan 2024 to Mar 2025)  
+![Nifty 2024-2025](images/WhatsApp%20Image%202025-07-29%20at%207.43.26%20PM.jpeg)
 
 ---
 
 ## 🔮 Future Enhancements
 
-- Train **AI/ML models** to predict future price movements
-- Add **auto trading bot** to simulate or execute trades
-- Build a **React** or **Streamlit** dashboard for user interaction
-- Integrate **news sentiment analysis** for market impact evaluation
+- Train **ML/DL models** to predict future price movements.
+- Add **auto trading bot** to simulate or execute trades.
+- Build a **dashboard** using React or Streamlit for user interaction.
+- Integrate **news sentiment analysis** to gauge market impact.
 
 ---
 
-> 🙌 Contributions are welcome! Feel free to fork, star, or raise an issue to improve this project.
